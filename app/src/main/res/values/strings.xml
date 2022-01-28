@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">OrganizerMenu</string>
+    <string name="p_TextView_title">Menu organizer</string>
+    <string name="p_contentDescription_imageLogo">Cover logo</string>
+    <string name="p_TextView_secondTitle">Personalized Nutritional Plan</string>
+    <string name="p_contentDescription_imageChecklist">Cover logo</string>
+    <string name="p_Button_Enter">Enter</string>
+    <string name="l_TextView_secondTitleA">Personalized</string>
+    <string name="l_TextView_secondTitleB">Nutritional Plan</string>
+    <string name="pUsers_contentDescription_imageLogo">Users registration logo</string>
+    <string name="pUser_TextView_titleWelcome">Welcome</string>
+    <string name="pUser_EditText_nameUser">Username</string>
+    <string name="pUser_EditText_password">Password</string>
+    <string name="pUser_Button_enter">enter</string>
+    <string name="pUser_TextView_register">Create an account</string>
+    <string name="pUser_Button_createAccount">create</string>
+    <string name="pUser_TextView_infoApp">About this App</string>
+    <string name="pReg_contentDescription_imgRegisterLogo">Registration logo</string>
+    <string name="pReg_TextView_TitleRegister">Create an account</string>
+    <string name="pReg_EditText_userName">Enter username</string>
+    <string name="pReg_EditText_mail">Enter your email</string>
+    <string name="pReg_EditText_createPass">Create a password</string>
+    <string name="pReg_EditText_confirmPass">Confirm Password</string>
+    <string name="pReg_Button_register">register</string>
+    <string name="pInfo_contentDescription_imgInfoLogo">Activity logo, Information</string>
+    <string name="pInfo_textView_titleInfo">About this App</string>
+    <string name="pInfo_TextView_infoText">Nutrition plan:
+                                        Starting to take care of ourselves and improve our diet
+                                        can be much more complicated than it seems, depending on the
+                                        pace of life of each person, it is very easy to lose the
+                                        order of the foods that are consumed, which can cause
+                                        leaving the instructions of the nutritional plan
+                                        prepared by a nutrition professional.</string>
+    <string name="pInfo_TextView_creatorApp">Programmer: Carlos A. Chávez G.
+                                       Contact: carcha0573@gmail.com</string>
+</resources>
